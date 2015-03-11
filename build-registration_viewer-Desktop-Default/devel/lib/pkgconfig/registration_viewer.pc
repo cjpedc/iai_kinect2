@@ -1,0 +1,8 @@
+prefix=/home/tmrcv1/catkin_ws/src/iai_kinect2/build-registration_viewer-Desktop-Default/devel
+
+Name: registration_viewer
+Description: Description of registration_viewer
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/tmrcv1/catkin_ws/src/iai_kinect2/build-registration_viewer-Desktop-Default/devel/lib 
+Requires: 

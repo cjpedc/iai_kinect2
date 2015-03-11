@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: registration_viewer
+Description: Description of registration_viewer
+Version: 0.0.1
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 
